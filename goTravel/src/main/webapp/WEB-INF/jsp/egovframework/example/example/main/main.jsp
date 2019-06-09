@@ -64,7 +64,7 @@ var init = {
 
   <div class="container">
   	<div style="margin-bottom:50px">
-    	<h1 class="my-4">마음에 드는 숙소를 찾아보세요</h1>
+    	<h1 class="my-4">마음에 드는 숙소를 찾아보세요 모두 화이팅~~~</h1>
 	</div>
     <!-- search room -->
     <div class="searchRoom row" style="margin-bottom:100px">
